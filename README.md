@@ -27,7 +27,7 @@ Install and use popular steganography tools for CTFs, cyber forensics, and infos
 To install all tools at once, run the following script:
 
 ```bash
-wget https://github.com/0xleopards/Steganography-Toolkit/install_stego.sh
+wget https://github.com/0xleopards/Steganography-Toolkit
 chmod +x install_stego.sh
 ./install_stego.sh
 ```
