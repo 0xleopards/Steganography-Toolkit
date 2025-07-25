@@ -107,5 +107,5 @@ All extra tools are saved to:
 
 ## 🧑‍💻 Author
 
-Created by: [Your Name]  
+Created by: 0xleopards 
 Last Updated: July 2025
